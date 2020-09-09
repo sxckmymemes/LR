@@ -3,6 +3,7 @@
 	padding: 0;
 }
 
+
 header {
 	width: 95%;
 	height: 40px;
@@ -21,4 +22,11 @@ header {
 	width: 61%;
 	height: 600px;
 	background: black;
+}
+footer {
+	width: 95%;
+	height: 30px;
+	background: #c5d3d3;
+	padding-top: 7px;
+
 }
